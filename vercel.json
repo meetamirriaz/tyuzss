@@ -1,0 +1,9 @@
+{ 
+   "redirects": [ 
+     { 
+       "source": "/post/:slug*", 
+       "destination": "https://tyuzs.com/:slug*", 
+       "permanent": true 
+     } 
+   ] 
+ }
